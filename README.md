@@ -7,8 +7,11 @@
 [![author](https://img.shields.io/badge/author-RafaelGallo-red.svg)](https://github.com/RafaelGallo?tab=repositories) 
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
 [![](https://img.shields.io/badge/R-3.6.0-red.svg)](https://www.r-project.org/)
+[![](https://img.shields.io/badge/SQL-Blue.svg)]()
+[![](https://img.shields.io/badge/SQL_Server-green.svg)](https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15)
+[![](https://img.shields.io/badge/Excel-green.svg)](https://support.microsoft.com/en-us/excel)
 [![](https://img.shields.io/badge/PowerBI-gree.svg)](https://powerbi.microsoft.com/pt-br/)
-[![](https://img.shields.io/badge/Google_Data_Studio-yellow.svg)](https://powerbi.microsoft.com/pt-br/)
+[![](https://img.shields.io/badge/Google_Data_Studio-yellow.svg)](https://datastudio.google.com/u/0/)
 ## Autores
 
 - [@RafaelGallo](https://www.github.com/rafaelgallo)
